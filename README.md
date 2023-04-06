@@ -22,6 +22,7 @@ Face and mask detection using CNN
 - model -> mask detector model을 load (그 얼굴에서 마스크를 찾는 작업)
 <br>
 <br>
+
 ![image](https://user-images.githubusercontent.com/88662101/230340043-28a654d2-2ba1-4e60-8b83-45beba2af360.png)
 - openCV의 facenet을 사용함으로 학습시키기 위한 Parameter를 입력해준다.
 - Face Detection의 결과가 dets에 저장된다.
