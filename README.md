@@ -14,13 +14,14 @@ Face and mask detection using CNN
 ## 코드 설명
 ![image](https://user-images.githubusercontent.com/88662101/230339435-e2c3a85c-832e-4ae4-83e8-980f94763acd.png)
 - tensorflow 2.2v을 Anaconda에다가 설치
-
+<br>
+<br>
 
 ![image](https://user-images.githubusercontent.com/88662101/230339809-04628efe-2066-42bb-8992-dfb8467e5a11.png)
 - facenet -> face detection model을 load (사진에서 얼굴을 찾는 작업)
 - model -> mask detector model을 load (그 얼굴에서 마스크를 찾는 작업)
-
-
+<br>
+<br>
 ![image](https://user-images.githubusercontent.com/88662101/230340043-28a654d2-2ba1-4e60-8b83-45beba2af360.png)
 - openCV의 facenet을 사용함으로 학습시키기 위한 Parameter를 입력해준다.
 - Face Detection의 결과가 dets에 저장된다.
