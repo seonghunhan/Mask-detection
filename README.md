@@ -2,7 +2,7 @@
 
 Face and mask detection using CNN
 
-![result.png](imgs/result.png)
+![마스크찍은사진](https://user-images.githubusercontent.com/88662101/230330671-a13f9fc8-a168-408f-851f-b8bbb62b8bc7.jpg)
 
 ## Requirement
 
